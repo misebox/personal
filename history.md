@@ -74,8 +74,6 @@
     JavaScript, ES2015, Vue.js,
     GCP, GAS, Docker, github, Mac など
 
-
-
 ### 2017/12 - 2018/03: 株式会社デジタルガレージ
 
 #### 新規データプラットフォームシステム開発 (業務委託)
@@ -88,7 +86,6 @@
     Python3.6, Flask, Alembic, PostgreSQL
     JavaScript, ES2015, Vue.js, Vuetify, gulp, pugjs
     Docker, github, Mac など
-
 
 ### 2014/08 - 2017/09 株式会社テクノプロ (雇用契約)
 
