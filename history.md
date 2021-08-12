@@ -26,10 +26,11 @@
   - 管理画面を利用者に話を聞いて、改善したり機能追加をする
   - リファクタリング(レガシーコードを置き換えたり、不要なコードを消すなど)
 #### 作業環境
-    github, Mac
-    Python2.7, Django1.11
-    JS, Vue, GCP, Docker
-
+```
+github, Mac
+Python2.7, Django1.11
+JS, Vue, GCP, Docker
+```
 
 ### 2020/07 - 2020/09: 株式会社Automagi
 
@@ -40,9 +41,10 @@
   - Redisで編集ロックの設計
 
 #### 作業環境
-    JS, Vue, Python3.7, Flask, Redis
-    Docker, AWS EC2, github
-
+```
+JS, Vue, Python3.7, Flask, Redis
+Docker, AWS EC2, github
+```
 
 ### 2019/04 - 2019/11 株式会社アイリッジ
 
@@ -55,12 +57,13 @@
   - パフォーマンス調査、高速化
 
 #### 作業環境
-    Python3.7, Bottle, Nginx, Docker, gitlab
-    (AWS)
-    IAM, CloudFront, CloudFormation, 
-    LAMBDA, ECS, Fargate, Aurora, DynamoDB, S3
-    StepFunctions, Kinesis Stream
-
+```
+Python3.7, Bottle, Nginx, Docker, gitlab
+(AWS)
+IAM, CloudFront, CloudFormation, 
+LAMBDA, ECS, Fargate, Aurora, DynamoDB, S3
+StepFunctions, Kinesis Stream
+```
 ### 2018/04 - 2019/02: 株式会社ビザスク
 
 #### ビジネスマッチングWEBサービスの運用保守 (業務委託)
@@ -83,9 +86,11 @@
   - DMP構築へ向けた情報収集のためクローラ作成
   - クローラー開発支援ツールとしてChrome拡張を開発
 #### 作業環境
-    Python3.6, Flask, Alembic, PostgreSQL
-    JavaScript, ES2015, Vue.js, Vuetify, gulp, pugjs
-    Docker, github, Mac など
+```
+Python3.6, Flask, Alembic, PostgreSQL
+JavaScript, ES2015, Vue.js, Vuetify, gulp, pugjs
+Docker, github, Mac など
+```
 
 ### 2014/08 - 2017/09 株式会社テクノプロ (雇用契約)
 
@@ -103,16 +108,20 @@
   - サンプルコード作成, メール回答, 問合せ案件のハンドリング
 
 #### 作業環境
-    C++，C＃，VB.NET，Python，Django
+```
+C++，C＃，VB.NET，Python，Django
+```
 
 #### 常駐先企業にて、ニュース配信サイトの運用開発
   - フロントエンド, サーバーサイド
   - 4,5人のチーム
   - 機能追加, 調査, 障害対応, パフォーマンスチューニング
 #### 作業環境
-    Linux, ShellScript, PHP, JS
-    CodeIgniter, Laravel, Ruby On Rails
-    MySQL, SubVersion
+```
+Linux, ShellScript, PHP, JS
+CodeIgniter, Laravel, Ruby On Rails
+MySQL, SubVersion
+```
 
 ### 2013/03 - 2014/04: 株式会社伊予エンジニアリング (雇用契約)
   - フロントエンド, サーバーサイド
@@ -122,8 +131,9 @@
   - 設計,コーディング,テストから顧客サーバールームでの導入作業まで担当。
   - 新入社員のフォローなど。
 #### 作業環境
-    PHP，Delphi，JS，SQLServer 
-
+```
+PHP，Delphi，JS，SQLServer 
+```
 
 ### 2011/09 株式会社ベルソ (雇用契約)
   - HTML/CSSマークアップ, サーバー構築
@@ -134,8 +144,9 @@
   - WEBデザイン
 
 #### 作業環境
-    Linux，PHP，WordPress，HTML，CSS，CentOS5
-
+```
+Linux，PHP，WordPress，HTML，CSS，CentOS5
+```
 
 ### 2008/11 - 2011/07: ウエストシステム株式会社 (雇用契約)
 25歳の時に基本情報技術者の資格をとり、未経験ながらプログラマーとして転職
@@ -144,4 +155,6 @@
   - 主に既存システムの改修・機能追加・テストを行う
 
 #### 作業環境
-    C＃，Java，JS，HTML，CSS，C言語，MySQL，OracleDB，SQLServer 
+```
+C＃，Java，JS，HTML，CSS，C言語，MySQL，OracleDB，SQLServer 
+```
