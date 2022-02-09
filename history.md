@@ -19,6 +19,23 @@
 
 ↓（逆時系列順）
 
+### 2021/9 - 現在: 株式会社ミーカンパニー
+
+#### WEBサイト、記事検索APIのリプレイス (業務委託)
+  - バックエンド、フロントエンド
+  - アーキテクチャ設計
+  - DB設計、パフォーマンスチューニング
+  - WEB API開発
+#### 作業環境
+```
+M1 Mac, BitBucket
+JavaScript, TypeScript, Vue3 
+Python3.9, FastAPI, Pydantic, SQLAlchemy, Alembic
+MySQL, Docker
+AWS: S3, ECS, OpenSearch, RDS, CodeBuild, EventBridge
+```
+
+
 ### 2020/10 - 2021/03: 株式会社ビザスク
 
 #### ビジネスマッチングWEBサービスの運用保守 (業務委託)
