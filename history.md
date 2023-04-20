@@ -19,6 +19,7 @@
 
 ↓（逆時系列順）
 
+---
 ### 2022/12 - 2023/6 (契約終了予定): Immedio株式会社 (業務委託)
   - ウェブフォーム連動型の商談獲得自動化システムの開発
   - 創業者のPdM と相談しながら開発・運用保守などの作業を担当
@@ -35,6 +36,7 @@ MySQL, Docker
 GCP: GCE, CloudSQL
 ```
 
+---
 
 ### 2021/9 - 2022/10: 株式会社ミーカンパニー (業務委託)
   - WEBサイトのリプレイス
@@ -51,7 +53,9 @@ Python3.9, FastAPI, Pydantic, SQLAlchemy, Alembic
 MySQL, Docker
 AWS: S3, ECS, OpenSearch, RDS, Lambda, CodeBuild, EventBridge
 ```
-
+---
+### 2021/04 - 2021/08 (休暇)
+----
 ### 2020/10 - 2021/03: 株式会社ビザスク (業務委託)
 
 #### ビジネスマッチングWEBサービスの運用保守
@@ -66,6 +70,7 @@ Python2.7, Django1.11
 JS, Vue, GCP, Docker
 ```
 
+---
 ### 2020/07 - 2020/09: 株式会社Automagi (業務委託)
 
 #### 自然言語AIを活用した社内の業務を効率化するプラットフォーム開発
@@ -80,6 +85,10 @@ JS, Vue, Python3.7, Flask, Redis
 Docker, AWS EC2, github
 ```
 
+---
+### 2019/12 - 2020/06 (休暇)
+
+---
 ### 2019/04 - 2019/11 株式会社アイリッジ (業務委託)
 
 #### ポイント・クーポンアプリ
@@ -98,6 +107,7 @@ IAM, CloudFront, CloudFormation,
 LAMBDA, ECS, Fargate, Aurora, DynamoDB, S3
 StepFunctions, Kinesis Stream
 ```
+---
 ### 2018/04 - 2019/02: 株式会社ビザスク (業務委託)
 
 #### ビジネスマッチングWEBサービスの運用保守
@@ -111,6 +121,7 @@ StepFunctions, Kinesis Stream
     JavaScript, ES2015, Vue.js,
     GCP, GAS, Docker, github, Mac など
 
+---
 ### 2017/12 - 2018/03: 株式会社デジタルガレージ (業務委託)
 
 #### 新規データプラットフォームシステム開発
@@ -125,6 +136,7 @@ Python3.6, Flask, Alembic, PostgreSQL
 JavaScript, ES2015, Vue.js, Vuetify, gulp, pugjs
 Docker, github, Mac など
 ```
+---
 
 ### 2014/08 - 2017/09 株式会社テクノプロ (雇用契約)
 
@@ -157,6 +169,7 @@ CodeIgniter, Laravel, Ruby On Rails
 MySQL, SubVersion
 ```
 
+---
 ### 2013/03 - 2014/04: 株式会社伊予エンジニアリング (雇用契約)
   - フロントエンド, サーバーサイド
   - Web対応地理情報システム(Web－GIS)の開発・導入
@@ -169,6 +182,7 @@ MySQL, SubVersion
 PHP，Delphi，JS，SQLServer 
 ```
 
+---
 ### 2011/09 株式会社ベルソ (雇用契約)
   - HTML/CSSマークアップ, サーバー構築
   - WEBサイト管理
@@ -182,6 +196,7 @@ PHP，Delphi，JS，SQLServer
 Linux，PHP，WordPress，HTML，CSS，CentOS5
 ```
 
+---
 ### 2008/11 - 2011/07: ウエストシステム株式会社 (雇用契約)
 25歳の時に基本情報技術者の資格をとり、未経験ながらプログラマーとして転職
   - いくつかの企業に派遣される
