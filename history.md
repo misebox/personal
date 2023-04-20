@@ -11,13 +11,30 @@
 2014 スキルアップできる環境をもとめ、東京に出る。
      東京のSES会社のソフトウェアエンジニアとして3年ほど勤務。
 
-2017 フリーランスで仕事を始める。
+2017 フリーランスで案件に参画し始める。
 
-今に至る
+2023 今に至る
 ```
 
 
 ↓（逆時系列順）
+
+### 2022/12 - 2023/6 (契約終了予定): Immedio株式会社 (業務委託)
+  - ウェブフォーム連動型の商談獲得自動化システムの開発
+  - 創業者のPdM と相談しながら開発・運用保守などの作業を担当
+  - エンジニア7〜9人の中のフルタイムメンバー2人と一緒にプロセス改善
+  - perl --> golang の移植
+  - テーブル設計, フロントUI作成, API作成 など
+
+#### 作業環境
+```
+M2 Mac(BYOD), Github, Notion, Github Actions
+JavaScript, TypeScript, React
+Perl, Go 1.20, goqu(Query Builder)
+MySQL, Docker
+GCP: GCE, CloudSQL
+```
+
 
 ### 2021/9 - 2022/10: 株式会社ミーカンパニー (業務委託)
   - WEBサイトのリプレイス
@@ -34,7 +51,6 @@ Python3.9, FastAPI, Pydantic, SQLAlchemy, Alembic
 MySQL, Docker
 AWS: S3, ECS, OpenSearch, RDS, Lambda, CodeBuild, EventBridge
 ```
-
 
 ### 2020/10 - 2021/03: 株式会社ビザスク (業務委託)
 
