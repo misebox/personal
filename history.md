@@ -21,12 +21,14 @@
 
 ---
 ### 2023/7 - 2023/9: JX通信社 (業務委託) 
-
+  - PubSubのpushサブスクリプションを処理するバックエンドサービスの実装
+  - データの集計バッチ
+  - API(REST/GraphQL)の実装
 #### 作業環境
 ```
 M2 Mac(BYOD), Gitlab, Notion
-Go, Python, 
-GCloud, Cloud SQL
+Go, echo, SQLBoiler
+Google Cloud: Cloud SQL, PubSub, Cloud Run
 JIRA、Notion
 meet / slack など
 ```
@@ -45,7 +47,7 @@ M2 Mac(BYOD), Github, Notion, Github Actions
 JavaScript, TypeScript, React
 Perl, Go 1.20, goqu(Query Builder)
 MySQL, Docker
-GCP: GCE, CloudSQL
+Google Cloud: GCE, CloudSQL
 ```
 
 ---
