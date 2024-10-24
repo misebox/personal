@@ -34,14 +34,22 @@
 
 ### 2024/04 - 2024/10: グローバルネットワークサービス
 
-- RFID タグ管理システム
+#### RFID タグ管理システム
+
+- チーム構成
+  - バックエンド: 1
+  - フロントエンド: 1
 
 ```
 Python, FastAPI, Typescript, React.js, Next.js,
 Terraform, RDS, CloudFront, AppRunner, S3, EC2
 ```
 
-- 予約管理システム（PMS）
+#### 予約管理システム（PMS）
+
+- チーム構成
+  - バックエンド: 1
+  - フロントエンド: 1
 
 ```
 Python, Django, Typescript, Vue.js, Nuxt.js,
@@ -59,7 +67,6 @@ Terraform, RDS, CloudFront, ECS, S3, EC2(NAT Instance)
 Typescript, React.js
 APIGateway, AWS Lambda, DynamoDB, Figma,
 Confluence, Slack
-
 ```
 
 ---
@@ -69,6 +76,14 @@ Confluence, Slack
 - PubSub の push サブスクリプションを処理するバックエンドサービスの実装
 - データの集計バッチの実装
 - API(REST/GraphQL)の実装
+
+#### チーム構成
+
+- 営業: 1
+- リーダー: 1
+- スクラムマスター: 1
+- フロントエンド: 2
+- バックエンド: 4-5
 
 #### 作業環境
 
