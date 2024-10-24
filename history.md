@@ -36,13 +36,20 @@
 
 #### RFID タグ管理システム
 
-- チーム構成
-  - バックエンド: 1
-  - フロントエンド: 1
+- 画面設計
+- API 設計
+- バックエンド
+- フロントエンド
+
+##### チーム構成
+
+- バックエンド: 1
+- フロントエンド: 1
 
 ```
 Python, FastAPI, Typescript, React.js, Next.js,
-Terraform, RDS, CloudFront, AppRunner, S3, EC2
+Terraform, RDS, CloudFront, AppRunner, S3, EC2,
+Figma
 ```
 
 #### 予約管理システム（PMS）
