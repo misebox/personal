@@ -40,6 +40,11 @@
 - API 設計
 - 画面設計
 
+##### チーム構成
+
+- フルスタック: 2
+- インフラ: 1
+
 ```
 Python, FastAPI, Typescript, React.js, Next.js,
 GCP, Cloud Run, Cloud SQL, Cloud Storage, BigQuery, Cloud Scheduler, Cloud Pub/Sub, Cloud Tasks
