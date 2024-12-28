@@ -32,7 +32,22 @@
 
 ---
 
-### 2024/04 - 2024/10: グローバルネットワークサービス
+
+### 2024/11 - 2025/01(契約終了予定): プロテーナム（業務委託）
+
+- バックエンド
+- フロントエンド
+- API 設計
+- 画面設計
+
+```
+Python, FastAPI, Typescript, React.js, Next.js,
+GCP, Cloud Run, Cloud SQL, Cloud Storage, BigQuery, Cloud Scheduler, Cloud Pub/Sub, Cloud Tasks
+terraform
+```
+
+
+### 2024/04 - 2024/10: グローバルネットワークサービス（業務委託）
 
 #### RFID タグ管理システム
 
